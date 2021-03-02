@@ -20,6 +20,6 @@ Linux
 
 # Source
 
-Dorks are source from various blogs, websites, tweets, etc.
+Dorks source - from various blogs, websites, tweets, etc.
 
 Thanks to all !!!!
