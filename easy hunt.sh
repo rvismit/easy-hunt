@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Author: DRUK
-# Assist: https://github.com/rvismit/chase
+# Assist: https://github.com/rvismit/easy-hunt
 # twitter: https://www.twitter.com/rvismit
 # Created Mar 2021 | Monastery
 # New updates coming soon.
