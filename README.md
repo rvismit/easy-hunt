@@ -8,6 +8,8 @@ Clone this repository
 
 cd easy hunt
 
+chmod +x easy-hunt.sh
+
 ./easy hunt.sh
 
 # Dependencies
